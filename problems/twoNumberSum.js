@@ -1,3 +1,8 @@
+/*
+@author Utsav Kapoor
+Problem 1
+*/
+
 // [2,3,5,1,7,6] Target 11
 // Time Optimal Solution : O(n) Time | O(n) Space
 function hasTwoNumberSum( arr, target ) {
